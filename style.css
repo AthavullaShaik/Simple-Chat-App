@@ -1,0 +1,57 @@
+.container {
+  margin-top: 5%;
+  margin-left: 35%;
+  padding-bottom: 1%;
+  border: solid rgb(36, 35, 35);
+  background-color: rgb(36, 35, 35);
+  width: 360px;
+  text-align: center;
+  border-radius: 10px;
+}
+h1 {
+  color: white;
+  text-align: left;
+  padding-left: 5px;
+}
+.title {
+  display: flex;
+}
+input {
+  color: white;
+  width: 250px;
+  border-radius: 15px;
+  padding: 5px 10px;
+  background-color: rgb(45, 42, 42);
+  border: solid rgb(24, 23, 23);
+}
+button {
+  margin-left: 5px;
+  background-color: rgb(45, 196, 42);
+  width: 35px;
+  height: 30px;
+  border-radius: 60%;
+  border: none;
+  cursor: pointer;
+}
+.text1 {
+  text-align: right;
+  color: white;
+  padding-right: 10px;
+}
+
+.text2 {
+  text-align: left;
+  color: white;
+  padding-left: 10px;
+}
+
+.text {
+  height: 36%;
+  color: white;
+  padding: 10px;
+}
+/* .text {
+  text-align: right;
+  color: white;
+  padding-right: 10px;
+} */
